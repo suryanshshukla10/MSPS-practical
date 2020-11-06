@@ -7,3 +7,9 @@
     a. [code](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-1/code)
     
     b. [output](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-1/fig-exp1)
+    
+2. **Experiment 2
+    
+    a. code
+    
+    b. output
