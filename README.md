@@ -10,6 +10,8 @@
     
 2. **Experiment 2**
     
-    a. code
+    a.[Experiment 2 simulink file](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-2) 
     
-    b. output
+    c.[System response to a step input](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-2/part1)
+    
+    b. [System response to a saturated ramp input](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-2/part2)
