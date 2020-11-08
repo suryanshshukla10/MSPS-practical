@@ -18,5 +18,5 @@
 
 2. **Experiment 3**
     
-    a.[Experiment 2 simulink file](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-3) 
+    a.[Experiment 3 simulink file](https://github.com/suryanshshukla10/MSPS-practical/tree/main/experiment-3) 
     
