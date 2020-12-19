@@ -1,0 +1,18 @@
+\section{Experiment 1}
+The given capacitive circuit is a high pass filter. 
+For the first order LTI system time constant is numerically denoted by tau = R*C. 
+Time constant helps us to find out how long it will take a capacitor to charge to a certain voltage level
+It is time taken by capacitor to charge till 63.2 percent of applied Voltage.
+High pass filter allows the signals of high frequency to pass and block the low frequency signals. High pass filter can be constructed by joining the capacitor and resistor in series. 
+
+Series RL circuit - \\
+In this circuit resistor and the capacitor are connected in series.
+The time constant of an RL circuit is defined as the time taken by the current to reach its maximum value that had maintained during its initial rate of rise.
+The time constant of a series RL circuit equal to the ratio of value of inductor to the value of resistance.
+Since, reactance is Xl = 2*pi*f*L, for low frequency(f) the inductive reactance will be low and 
+so there will not be any voltage drop across inductor, the output voltage across resistor
+will be same as input voltage. Therefore series RL circuit will act as inductor circuit.
+Transfer function of RL circuit is V0(s)/Vi(s) = 1/(S+1). 
+%By taking inverse laplace we will get 
+%V0 = Vi * exp(-t). When we apply impulse input (Vi(t)), we will get a decaying exp curve. However,
+%if we apply step input, the value of ouput will reach at a saturation point.  
