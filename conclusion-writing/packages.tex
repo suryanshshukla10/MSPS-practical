@@ -1,0 +1,38 @@
+
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper, top=0.6in, right=0.6in, left=0.6in,bottom= 0.6in]{geometry}
+% \usepackage{wrapfig, blindtext}
+\usepackage{amsmath} % needed for command eqref
+\usepackage{amssymb} % needed for math fonts
+\usepackage[
+	colorlinks=true
+	,breaklinks
+	%,ngerman
+	]{hyperref} % needed for creating hyperlinks in the document, the option colorlinks=true gets rid of the awful boxes, breaklinks breaks lonkg links (list of figures), and ngerman sets everything for german as default hyperlinks language
+\usepackage{xcolor}
+\definecolor{c1}{rgb}{0,0,1} % blue
+\definecolor{c2}{rgb}{0,0.3,0.9} % light blue
+\definecolor{c3}{rgb}{0.3,0,0.9} % red blue
+\hypersetup{
+    linkcolor={c1}, % internal links
+    citecolor={c2}, % citations
+    urlcolor={c3} % external links/urls
+}
+\usepackage{graphicx} % needed for \includegraphics 
+\usepackage{longtable} % needed for long tables over pages
+\usepackage{bigstrut} % needed for the command \bigstrut
+\usepackage{enumerate} % needed for some options in enumerate
+\usepackage{todonotes} % needed for todos
+\usepackage{imakeidx} % needed for creating an index
+\usepackage{fancyhdr}
+\usepackage{float}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+% Use for changing font sizes of section, subsection, subsubsection
+% \usepackage{sectsty}
+
+% \sectionfont{\fontsize{12}{14}\selectfont}
+% \subsectionfont{\fontsize{10}{12}\selectfont}
+% \subsubsectionfont{\fontsize{8}{10}\selectfont}
